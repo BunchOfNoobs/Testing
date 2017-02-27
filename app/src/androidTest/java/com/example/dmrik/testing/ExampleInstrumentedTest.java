@@ -16,6 +16,9 @@ import static org.junit.Assert.*;
  */
 @RunWith(AndroidJUnit4.class)
 public class ExampleInstrumentedTest {
+
+  String LOL;
+  
     @Test
     public void useAppContext() throws Exception {
         // Context of the app under test.
@@ -24,6 +27,6 @@ public class ExampleInstrumentedTest {
         assertEquals("com.example.dmrik.testing", appContext.getPackageName());
         //This is just for testing comment
         //This is another comment to test this out
-      
+
     }
 }
