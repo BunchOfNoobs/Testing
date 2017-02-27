@@ -23,5 +23,7 @@ public class ExampleInstrumentedTest {
 
         assertEquals("com.example.dmrik.testing", appContext.getPackageName());
         //This is just for testing comment
+        //This is another comment to test this out
+      
     }
 }
