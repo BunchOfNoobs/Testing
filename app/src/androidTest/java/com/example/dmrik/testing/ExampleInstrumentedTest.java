@@ -22,5 +22,6 @@ public class ExampleInstrumentedTest {
         Context appContext = InstrumentationRegistry.getTargetContext();
 
         assertEquals("com.example.dmrik.testing", appContext.getPackageName());
+        //This is just for testing comment
     }
 }
