@@ -18,7 +18,7 @@ import static org.junit.Assert.*;
 public class ExampleInstrumentedTest {
 
   String LOL;
-  
+  int play = 1;
     @Test
     public void useAppContext() throws Exception {
         // Context of the app under test.
